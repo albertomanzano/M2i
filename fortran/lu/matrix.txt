@@ -1,0 +1,8 @@
+9.,5.,4.
+Tenemos que intoducirlo todo por columnas.
+Si queremos doble precisión tenemos como opciones introducir 9._8 (Introducimos la precisión por número)
+o bien según el sistema antiguo usar 9.d0
+
+Ojo, cuando pongo read espera que se introduzcan los números por consola, para emplear un archivo ya creado empleamos la redirección
+
+ La ventaja de introducir datos por fichero es que te evita tener que estar compilando.
