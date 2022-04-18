@@ -1,0 +1,1 @@
+mpicc ejercicio5.c -lm
